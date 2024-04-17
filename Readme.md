@@ -21,7 +21,7 @@ The program uses a `.env` file for configuration. Example `.env` file:
 MONGODB_URI=mongodb://localhost:27017
 MONGODB_DATABASE=chess_games
 MONGODB_COLLECTION=games
-FILE_PATH=path/to/pgn/file.pgn
+FOLDER_PATH="./games"
 ```
 
 ## Usage
