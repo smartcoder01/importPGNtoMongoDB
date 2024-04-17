@@ -164,6 +164,8 @@ func parseGame(data string) *Game {
 		value := match[2]
 
 		switch tag {
+		case "Opening":
+			game.Opening = value
 		case "Event":
 			game.Event = value
 		case "Site":
