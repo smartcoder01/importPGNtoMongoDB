@@ -1,0 +1,192 @@
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/NdMRIZNS"]
+[Date "2024.04.16"]
+[White "Tanatov_2006"]
+[Black "Zhigalko_Sergei"]
+[Result "0-1"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:59:14"]
+[WhiteElo "2791"]
+[BlackElo "3206"]
+[BlackTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A09"]
+[Termination "Normal"]
+
+1. Nf3 d5 2. c4 d4 3. d3 Nc6 4. g3 e5 5. Bg2 Nf6 6. O-O a5 7. e3 Bc5 8. exd4 Bxd4 9. Nc3 O-O 10. Re1 Re8 11. Bg5 h6 12. Bxf6 Qxf6 13. Nxd4 Nxd4 14. Nd5 Qd8 15. Rc1 c6 16. Nc3 Bf5 17. Be4 Qd7 18. Kg2 Rad8 19. Qd2 Bh3+ 20. Kh1 f5 21. Bg2 Bxg2+ 22. Kxg2 f4 23. Ne4 f3+ 24. Kh1 Qh3 25. Rg1 Ne2 26. Rce1 Nxg1 27. Rxg1 Qg4 28. Qe3 Rd4 29. c5 Qf5 30. Rd1 Red8 31. Nd6 Qf6 32. a3 Rd5 33. b4 axb4 34. axb4 Rd7 35. h3 Rd4 36. Kh2 Rxb4 37. Ne4 Qf5 38. Nd6 Qf6 39. Ne4 Qe6 40. Qxf3 Rbd4 41. Nd6 R4xd6 42. cxd6 Qxd6 43. Qe3 Qd5 44. Rb1 b5 45. Re1 b4 46. Qxe5 Qxe5 47. Rxe5 Rb7 48. Rc5 b3 49. Rc1 Kf7 50. Kg2 Ke6 51. Kf3 Kd5 52. Ke3 b2 53. Rb1 Rb3 54. Kd2 Kd4 55. Kc2 Rb8 56. Rxb2 Rxb2+ 57. Kxb2 Kxd3 58. Kb3 c5 59. Kb2 Kd2 60. Ka3 c4 0-1
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/jXYnLWUZ"]
+[Date "2024.04.16"]
+[White "Zhigalko_Sergei"]
+[Black "HaykVardanyan"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:57:31"]
+[WhiteElo "3206"]
+[BlackElo "2682"]
+[WhiteTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Termination "Normal"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 g6 6. Bc4 Bg7 7. O-O O-O 8. h3 Bf5 9. Re1 Nc6 10. Bg5 Na5 11. Bd3 Bxd3 12. Qxd3 h6 13. Bh4 g5 14. Bg3 Nc6 15. Rad1 Nb4 16. Qe2 Nbd5 17. Nxd5 Nxd5 18. c4 Nb4 19. a3 Na6 20. Qxe7 Re8 21. Qxd8 Raxd8 22. Rxe8+ Rxe8 23. b4 c6 24. d5 cxd5 25. cxd5 Nb8 26. Kf1 Nd7 27. Rc1 f5 28. Bc7 Bb2 29. Rb1 Bxa3 30. Nd4 f4 31. Nc2 Rc8 32. d6 Bxb4 33. Nxb4 Nf6 34. Rd1 Nd7 35. Nd5 Kf7 36. Re1 Kg6 37. Ne7+ 1-0
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/B8u4jaFS"]
+[Date "2024.04.16"]
+[White "Zhigalko_Sergei"]
+[Black "Tanatov_2006"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:55:38"]
+[WhiteElo "3206"]
+[BlackElo "2791"]
+[WhiteTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C63"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 Nf6 5. O-O Bc5 6. Nc3 fxe4 7. dxe4 d6 8. Bc4 Bg4 9. Qd3 Qd7 10. Nd5 O-O-O 11. c3 Rdf8 12. b4 Bb6 13. Nd2 Ne7 14. Nxb6+ axb6 15. a4 Nh5 16. g3 Bh3 17. Re1 Qg4 18. f3 Qg5 19. Nf1 Nf4 20. Qc2 Neg6 21. a5 bxa5 22. Rxa5 Nh4 23. Qf2 Bd7 24. Kh1 Nhg6 25. gxf4 Nxf4 26. Ng3 h5 27. Ra8# 1-0
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/iIxDk0lQ"]
+[Date "2024.04.16"]
+[White "RomanSafin214"]
+[Black "Zhigalko_Sergei"]
+[Result "0-1"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:53:43"]
+[WhiteElo "2706"]
+[BlackElo "3206"]
+[BlackTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "E15"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qb3 Nc6 6. Nbd2 Na5 7. Qc2 c5 8. Bg2 Bb7 9. dxc5 bxc5 10. O-O Be7 11. b3 O-O 12. Bb2 Qb6 13. Rfd1 Rfd8 14. e4 d6 15. Rac1 Nd7 16. Ne1 Nc6 17. Nd3 a5 18. f4 Nd4 19. Bxd4 cxd4 20. f5 Bg5 21. Rf1 Be3+ 22. Kh1 a4 23. fxe6 fxe6 24. Rce1 axb3 25. axb3 Nc5 26. Nf4 Qb4 27. Nf3 e5 28. Nd5 Qxb3 29. Qe2 Bxd5 30. exd5 Ra2 31. Qd1 Qxd1 32. Rxd1 Ne4 33. Nxd4 Nf2+ 34. Rxf2 Rxf2 35. Ne6 Rb8 36. Be4 Rbb2 37. Nd4 Rxh2# 0-1
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/4JucvIhr"]
+[Date "2024.04.16"]
+[White "Fighter_001"]
+[Black "Zhigalko_Sergei"]
+[Result "0-1"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:52:29"]
+[WhiteElo "2815"]
+[BlackElo "3206"]
+[WhiteTitle "WIM"]
+[BlackTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A01"]
+[Termination "Normal"]
+
+1. b3 e5 2. Bb2 e4 3. g3 Nf6 4. Bg2 d5 5. e3 Nc6 6. Ne2 h5 7. h4 Bd6 8. d3 Bg4 9. Nbc3 Qe7 10. d4 a6 11. a3 Qd7 12. Qd2 Ne7 13. Rc1 b5 14. Na2 Rb8 15. Nf4 Bf3 16. Bf1 Bxh1 17. c4 bxc4 18. bxc4 Bxf4 19. gxf4 Qg4 20. cxd5 Nexd5 21. Nb4 O-O 22. Nxd5 Nxd5 23. Bc4 Qg1+ 24. Bf1 Bg2 25. Ke2 Bf3+ 26. Ke1 Rb6 27. Ba1 Rg6 28. Rc5 c6 29. Qc3 Nxc3 0-1
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/7d8j67OH"]
+[Date "2024.04.16"]
+[White "MolB2008"]
+[Black "Zhigalko_Sergei"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:50:02"]
+[WhiteElo "2739"]
+[BlackElo "3206"]
+[BlackTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B33"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8. exd5 Nb8 9. a4 Be7 10. Be2 O-O 11. O-O f5 12. Be3 f4 13. Bd2 Bf5 14. f3 Nd7 15. Na3 Rc8 16. Nc4 Nf6 17. Bc3 g5 18. Kh1 h5 19. Re1 g4 20. Bxe5 dxe5 21. d6 e4 22. dxe7 Qxe7 23. fxe4 Nxe4 24. Qd5+ Kg7 25. Bd3 Rcd8 26. Qe5+ Qxe5 27. Nxe5 Nf2+ 28. Kg1 Nxd3 29. cxd3 Bxd3 30. Rac1 Ba6 31. Rc7+ Kf6 32. Nd7+ Rxd7 33. Rxd7 Rc8 34. Rd4 Kg5 35. Re5+ Kf6 36. Re1 Kf5 37. g3 f3 38. Rd2 Rc4 39. Kf2 Rxa4 40. Rc1 Rb4 41. Rc3 Ke6 42. Re3+ Kf5 43. Rd5+ Kf6 44. b3 Rb6 45. Rxh5 Bb5 46. Rd5 Bc6 47. Rd4 Kf5 48. Rf4+ Kg5 49. Re5+ Kg6 50. Rxg4+ Kf6 51. Re3 Bd7 52. Rf4+ Kg5 53. Kxf3 Bg4+ 54. Rxg4+ Kf5 55. Rf4+ Kg6 56. Re5 Kh7 57. Kg4 Rh6 58. Rg5 b6 59. Kf5 a5 60. Rfg4 Rd6 61. Rh4+ Rh6 62. Rxh6+ Kxh6 63. Rg6+ 1-0
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/X2Q2MOg7"]
+[Date "2024.04.16"]
+[White "Zhigalko_Sergei"]
+[Black "ochp0chmak"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:48:47"]
+[WhiteElo "3206"]
+[BlackElo "2355"]
+[WhiteTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B12"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 h5 6. O-O Ne7 7. Nbd2 Nd7 8. Nb3 c5 9. Nxc5 Nxc5 10. dxc5 Nc6 11. Be3 Qa5 12. c3 Qd8 13. b4 a6 14. Nd4 Nxe5 15. Nxf5 exf5 16. Re1 Be7 17. Bd4 Ng4 18. Bxg4 hxg4 19. Bxg7 Rg8 20. Bf6 1-0
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/QIrc44Oz"]
+[Date "2024.04.16"]
+[White "Lisalex80"]
+[Black "Zhigalko_Sergei"]
+[Result "0-1"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:46:56"]
+[WhiteElo "2235"]
+[BlackElo "3206"]
+[BlackTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A45"]
+[Termination "Time forfeit"]
+
+1. d4 Nf6 2. Nc3 e6 3. e4 d6 4. Bg5 Be7 5. Qd2 Nfd7 6. Bxe7 Qxe7 7. O-O-O a6 8. d5 b5 9. dxe6 fxe6 10. f4 O-O 11. f5 b4 12. Nce2 a5 13. b3 Nc5 14. fxe6 Nxe4 15. Qd4 Nf2 16. Qd5 Ra6 17. Nf3 Bxe6 18. Qd4 Nxh1 19. g3 Rxf3 20. Bg2 Rf8 21. Bxh1 Nd7 22. Qd3 Nc5 23. Qd4 a4 24. Be4 axb3 25. axb3 Nxe4 26. Qxe4 Qf6 27. Nd4 Ra1+ 28. Kd2 Rxd1+ 29. Kxd1 Bf7 30. Qd3 c5 31. Ne2 Bh5 32. Kd2 Bxe2 33. Qxe2 Qd4+ 34. Qd3 Qxd3+ 35. Kxd3 d5 36. c4 bxc3 37. Kxc3 Rf3+ 38. Kd2 h5 39. Ke2 Rxb3 40. h3 c4 41. Kf2 Rd3 42. g4 Kf7 43. gxh5 Kf6 44. Kg2 Kg5 45. Kh2 Kxh5 46. Kg1 Kh4 47. Kg2 g5 48. Kf1 d4 49. Kg1 Re3 50. Kf2 c3 51. Kf1 c2 0-1
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/j3RbXam2"]
+[Date "2024.04.16"]
+[White "Zhigalko_Sergei"]
+[Black "Fighter_001"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:45:03"]
+[WhiteElo "3206"]
+[BlackElo "2815"]
+[WhiteTitle "GM"]
+[BlackTitle "WIM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Termination "Normal"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 g6 4. Nf3 Bg7 5. O-O e6 6. c3 Ne7 7. Re1 d5 8. a4 a5 9. Bf4 Nd7 10. Nbd2 h6 11. h3 O-O 12. Qc2 Nf6 13. e5 Ne8 14. Nf1 Rc8 15. Qd2 Kh7 16. h4 c5 17. h5 Nf5 18. Ng3 Nxg3 19. fxg3 Qe7 20. Nh4 Kg8 21. hxg6 f5 22. Bxh6 cxd4 23. cxd4 Bxh6 24. Qxh6 Qg7 25. Qg5 Rc7 26. Rac1 Bc6 27. b3 f4 28. gxf4 Bb7 29. f5 Rxc1 30. Rxc1 exf5 31. Nxf5 Rxf5 32. Bxf5 1-0
+
+
+[Event "GM Zhigalko Sergei Stream 1+0 Arena"]
+[Site "https://lichess.org/Cj8Ea8QC"]
+[Date "2024.04.16"]
+[White "Zhigalko_Sergei"]
+[Black "VikhrenkoKA"]
+[Result "1-0"]
+[UTCDate "2024.04.16"]
+[UTCTime "17:43:09"]
+[WhiteElo "3206"]
+[BlackElo "2309"]
+[WhiteTitle "GM"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B12"]
+[Termination "Time forfeit"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O h6 7. Nbd2 Nd7 8. a4 a5 9. Nb3 Bh7 10. Bd2 Nf5 11. Rc1 Be7 12. g4 Nh4 13. Nxh4 Bxh4 14. f4 f5 15. exf6 Bxf6 16. Bd3 Bxd3 17. cxd3 O-O 18. Qe1 Qe7 19. Bxa5 b6 20. Bb4 c5 21. dxc5 Rxa4 22. Ba3 Rxa3 23. bxa3 bxc5 24. Kh1 Bb2 25. Rc2 Bxa3 26. Re2 Rf6 27. f5 e5 28. d4 Bb4 29. Qg3 cxd4 30. Nxd4 Bd6 31. Nc6 Qf7 32. Qb3 e4 33. Nd8 Qf8 34. Qxd5+ 1-0
+
+
