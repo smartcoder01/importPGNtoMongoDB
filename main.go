@@ -231,6 +231,10 @@ func parseMovesFromPGN(gameString string) string {
 			moves += line + " "
 		}
 	}
+
+	// Clean notations && Number moves
+	moves = regexp.MustCompile(`\{[^}]*\}|\b\d+\.|\d+-\d+|\.`).ReplaceAllString(moves, "")
+	moves = strings.Join(strings.Fields(moves), " ")
 	return moves
 }
 
